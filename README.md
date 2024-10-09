@@ -1,4 +1,3 @@
-![logo](https://imgur.com/a/4SmixS3)
 <h1 align="center">Hi 👋, I'm Jubayer Shikder</h1>
 <h3 align="center">I am a Web Devoloper.</h3>
 
